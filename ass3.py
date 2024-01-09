@@ -17,7 +17,7 @@ class Person:
         print("Age:",self.age)
         print("Address:",self.address)
 
-person1 = Person(name="Vimal Varghese", age=22, address="248-b vytilla")
+person1 = Person(name="Dayal Chandran", age=22, address="248-b Alappuzha")
 
 print("Initial Information:")
 person1.display_information()
